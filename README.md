@@ -1,2 +1,2 @@
 # zhouaz.github.io
-theme: minima
+theme: Hacker
